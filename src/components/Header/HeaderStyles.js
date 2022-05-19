@@ -10,6 +10,7 @@ background: #6087d5;
   padding: 1rem;
   padding-top: 2rem;
 
+
   @media ${(props) => props.theme.breakpoints.sm} {
     display: grid;
     grid-template-columns: repeat(5, 1fr);

@@ -6,7 +6,7 @@ import { projects } from '../../constants/constants';
 
 const Images = () => (
   <div>
-  <Section>
+  <Section id='thousand-words'>
 <SectionDivider />
     <SectionTitle main> Thousand Words</SectionTitle>
   </Section>
